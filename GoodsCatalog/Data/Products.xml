@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <product id="1" name="Пальто" price="2200" num="50" pid="1" producer="Producer1" cid="1" category="Одежда" />
+  <product id="2" name="Куртки" price="1800" num="50" pid="1" producer="Producer1" cid="1" category="Одежда" />
+  <product id="3" name="Костюмы" price="900" num="50" pid="2" producer="Producer2" cid="1" category="Одежда" />
+  <product id="4" name="Платья" price="880" num="50" pid="2" producer="Producer2" cid="1" category="Одежда" />
+  <product id="5" name="Ботинки" price="950" num="50" pid="3" producer="Producer3" cid="2" category="Обувь" />
+  <product id="6" name="Сапоги" price="1300" num="50" pid="3" producer="Producer3" cid="2" category="Обувь" />
+  <product id="7" name="Кроссовки" price="700" num="50" pid="4" producer="Producer4" cid="2" category="Обувь" />
+  <product id="8" name="Кеды" price="200" num="50" pid="4" producer="Producer4" cid="2" category="Обувь" />
+</root>
