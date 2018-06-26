@@ -56,7 +56,7 @@ namespace GoodsCatalog
             Window1 win1 = new Window1();
            // win1.ShowDialog();//модальное окно - без доступа к родительскому окну , блокирока окна
             //win1.Show() - с доступом к родительском
-            if (win1.ShowDialog() == true)
+            if (win1.ShowDialog() == true)//
             {
                 XmlDataProvider xdp = (XmlDataProvider)FindResource("categoreProvider");
                 Binding b = new Binding();
